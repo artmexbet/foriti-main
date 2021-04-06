@@ -1,0 +1,22 @@
+{
+    "data": [
+      {
+        "login": "artmexbet",
+        "password": "zxcvasdf",
+        "name": "Артём",
+        "subject": "русский"
+      },
+      {
+        "login": "JustyTry",
+        "password": "asWeCan",
+        "name": "Саша",
+        "subject": "MainAdmin"
+      },
+      {
+        "login": "MainAdmin",
+        "password": "HsdkOrsfS",
+        "name": "ЗавУч",
+        "subject": "MainAdmin"
+      }
+    ]
+  }
